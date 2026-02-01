@@ -29,7 +29,7 @@ export function Sidebar() {
           </div>
           <div>
             <h1 className="font-bold" style={{ color: 'var(--ui-text-primary)' }}>
-              Health Intelligence
+              GoEZ
             </h1>
             <p className="text-xs" style={{ color: 'var(--ui-text-muted)' }}>
               Your health, understood
