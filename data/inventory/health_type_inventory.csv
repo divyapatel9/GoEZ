@@ -1,0 +1,42 @@
+type,sample_count,units,top_source_1,top_source_1_count,top_source_2,top_source_2_count
+HKQuantityTypeIdentifierPhysicalEffort,166048,kcal/hr·kg,Shrey’s Apple Watch,166048,,0
+HKQuantityTypeIdentifierHeartRate,155815,count/min,Shrey’s Apple Watch,92313,Bluetooth Device,59894
+HKQuantityTypeIdentifierBasalEnergyBurned,77601,Cal,Shrey’s Apple Watch,56668,Shrey’s iPhone,20208
+HKQuantityTypeIdentifierActiveEnergyBurned,66210,Cal,Shrey’s Apple Watch,55522,Shrey’s iPhone,10667
+HKQuantityTypeIdentifierDistanceWalkingRunning,56168,mi,Shrey’s Apple Watch,28464,Shrey’s iPhone,27704
+HKQuantityTypeIdentifierStepCount,42252,count,Shrey’s iPhone,27940,Shrey’s Apple Watch,14168
+HKQuantityTypeIdentifierWalkingSpeed,27861,mi/hr,Shrey’s iPhone,27861,,0
+HKQuantityTypeIdentifierWalkingStepLength,27859,in,Shrey’s iPhone,27859,,0
+HKQuantityTypeIdentifierWalkingDoubleSupportPercentage,25752,%,Shrey’s iPhone,25752,,0
+HKQuantityTypeIdentifierHeadphoneAudioExposure,22123,dBASPL,Shrey’s iPhone,22120,Shrey’s Apple Watch,3
+HKQuantityTypeIdentifierWalkingAsymmetryPercentage,15074,%,Shrey’s iPhone,15074,,0
+HKQuantityTypeIdentifierAppleStandTime,13716,min,Shrey’s Apple Watch,13660,Shrey’s iPhone,56
+HKQuantityTypeIdentifierEnvironmentalAudioExposure,10855,dBASPL,Shrey’s Apple Watch,10855,,0
+HKQuantityTypeIdentifierAppleExerciseTime,6088,min,Shrey’s Apple Watch,5836,Shrey’s iPhone,252
+HKCategoryTypeIdentifierAppleStandHour,4185,,Shrey’s Apple Watch,4170,Shrey’s iPhone,15
+HKQuantityTypeIdentifierTimeInDaylight,3438,min,Shrey’s Apple Watch,3438,,0
+HKQuantityTypeIdentifierRespiratoryRate,3038,count/min,Shrey’s Apple Watch,3032,WHOOP,6
+HKQuantityTypeIdentifierFlightsClimbed,2896,count,Shrey’s iPhone,2042,Shrey’s Apple Watch,854
+HKCategoryTypeIdentifierSleepAnalysis,2290,,Shrey’s Apple Watch,2048,WHOOP,133
+HKQuantityTypeIdentifierHeartRateVariabilitySDNN,2022,ms,Shrey’s Apple Watch,1810,Ultrahuman,212
+HKQuantityTypeIdentifierDistanceCycling,1800,mi,Shrey’s Apple Watch,1800,,0
+HKQuantityTypeIdentifierStairAscentSpeed,1151,ft/s,Shrey’s Apple Watch,1151,,0
+HKQuantityTypeIdentifierStairDescentSpeed,1093,ft/s,Shrey’s Apple Watch,1093,,0
+HKQuantityTypeIdentifierBodyTemperature,777,degF,Ultrahuman,777,,0
+HKQuantityTypeIdentifierOxygenSaturation,596,%,Shrey’s iPhone,590,WHOOP,6
+HKQuantityTypeIdentifierEnvironmentalSoundReduction,581,dBASPL,Shrey’s Apple Watch,581,,0
+HKQuantityTypeIdentifierRestingHeartRate,346,count/min,Shrey’s Apple Watch,336,WHOOP,6
+HKCategoryTypeIdentifierAudioExposureEvent,316,,Shrey’s Apple Watch,316,,0
+HKQuantityTypeIdentifierWalkingHeartRateAverage,315,count/min,Shrey’s Apple Watch,315,,0
+HKCategoryTypeIdentifierHeadphoneAudioExposureEvent,204,,Shrey’s iPhone,204,,0
+HKQuantityTypeIdentifierAppleWalkingSteadiness,114,%,Shrey’s iPhone,114,,0
+HKCategoryTypeIdentifierHandwashingEvent,68,,Shrey’s Apple Watch,68,,0
+HKQuantityTypeIdentifierAppleSleepingBreathingDisturbances,62,count,Shrey’s Apple Watch,62,,0
+HKQuantityTypeIdentifierSixMinuteWalkTestDistance,44,m,Shrey’s iPhone,44,,0
+HKQuantityTypeIdentifierVO2Max,29,mL/min·kg,Shrey’s Apple Watch,29,,0
+HKCategoryTypeIdentifierLowHeartRateEvent,4,,Shrey’s Apple Watch,4,,0
+HKQuantityTypeIdentifierHeight,1,ft,Shrey’s iPhone,1,,0
+HKQuantityTypeIdentifierBodyMass,1,lb,Shrey’s iPhone,1,,0
+HKDataTypeSleepDurationGoal,1,hr,Health,1,,0
+HKQuantityTypeIdentifierAppleSleepingWristTemperature,1,degF,Shrey’s Apple Watch,1,,0
+HKCategoryTypeIdentifierHighHeartRateEvent,1,,Shrey’s Apple Watch,1,,0

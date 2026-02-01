@@ -1,0 +1,19 @@
+"""Prompts module for the Health Agent."""
+
+from .system_prompts import (
+    CLARIFY_SYSTEM_PROMPT,
+    BRIEF_SYSTEM_PROMPT,
+    SUBAGENT_SYSTEM_PROMPT,
+    AGGREGATION_SYSTEM_PROMPT,
+    REPORT_SYSTEM_PROMPT,
+)
+from .schema_context import MONGODB_SCHEMA_CONTEXT
+
+__all__ = [
+    "CLARIFY_SYSTEM_PROMPT",
+    "BRIEF_SYSTEM_PROMPT", 
+    "SUBAGENT_SYSTEM_PROMPT",
+    "AGGREGATION_SYSTEM_PROMPT",
+    "REPORT_SYSTEM_PROMPT",
+    "MONGODB_SCHEMA_CONTEXT",
+]

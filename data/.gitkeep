@@ -1,0 +1,2 @@
+# This directory holds generated data files (parquet, duckdb)
+# All contents except this file are gitignored

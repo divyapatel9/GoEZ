@@ -1,0 +1,612 @@
+{
+  "summary": {
+    "total_records": 738796,
+    "total_workouts": 22,
+    "unique_record_types": 41,
+    "unique_workout_types": 4
+  },
+  "record_types": {
+    "HKQuantityTypeIdentifierPhysicalEffort": {
+      "sample_count": 166048,
+      "units": [
+        "kcal/hr·kg"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 166048
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierHeartRate": {
+      "sample_count": 155815,
+      "units": [
+        "count/min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 92313
+        },
+        {
+          "name": "Bluetooth Device",
+          "count": 59894
+        },
+        {
+          "name": "WHOOP",
+          "count": 2274
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 744
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 590
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierBasalEnergyBurned": {
+      "sample_count": 77601,
+      "units": [
+        "Cal"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 56668
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 20208
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 725
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierActiveEnergyBurned": {
+      "sample_count": 66210,
+      "units": [
+        "Cal"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 55522
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 10667
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 18
+        },
+        {
+          "name": "WHOOP",
+          "count": 3
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierDistanceWalkingRunning": {
+      "sample_count": 56168,
+      "units": [
+        "mi"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 28464
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 27704
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierStepCount": {
+      "sample_count": 42252,
+      "units": [
+        "count"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 27940
+        },
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 14168
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 138
+        },
+        {
+          "name": "WHOOP",
+          "count": 6
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierWalkingSpeed": {
+      "sample_count": 27861,
+      "units": [
+        "mi/hr"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 27861
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierWalkingStepLength": {
+      "sample_count": 27859,
+      "units": [
+        "in"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 27859
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierWalkingDoubleSupportPercentage": {
+      "sample_count": 25752,
+      "units": [
+        "%"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 25752
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierHeadphoneAudioExposure": {
+      "sample_count": 22123,
+      "units": [
+        "dBASPL"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 22120
+        },
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 3
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierWalkingAsymmetryPercentage": {
+      "sample_count": 15074,
+      "units": [
+        "%"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 15074
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierAppleStandTime": {
+      "sample_count": 13716,
+      "units": [
+        "min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 13660
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 56
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierEnvironmentalAudioExposure": {
+      "sample_count": 10855,
+      "units": [
+        "dBASPL"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 10855
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierAppleExerciseTime": {
+      "sample_count": 6088,
+      "units": [
+        "min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 5836
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 252
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierAppleStandHour": {
+      "sample_count": 4185,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 4170
+        },
+        {
+          "name": "Shrey’s iPhone",
+          "count": 15
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierTimeInDaylight": {
+      "sample_count": 3438,
+      "units": [
+        "min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 3438
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierRespiratoryRate": {
+      "sample_count": 3038,
+      "units": [
+        "count/min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 3032
+        },
+        {
+          "name": "WHOOP",
+          "count": 6
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierFlightsClimbed": {
+      "sample_count": 2896,
+      "units": [
+        "count"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 2042
+        },
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 854
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierSleepAnalysis": {
+      "sample_count": 2290,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 2048
+        },
+        {
+          "name": "WHOOP",
+          "count": 133
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 109
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierHeartRateVariabilitySDNN": {
+      "sample_count": 2022,
+      "units": [
+        "ms"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 1810
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 212
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierDistanceCycling": {
+      "sample_count": 1800,
+      "units": [
+        "mi"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 1800
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierStairAscentSpeed": {
+      "sample_count": 1151,
+      "units": [
+        "ft/s"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 1151
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierStairDescentSpeed": {
+      "sample_count": 1093,
+      "units": [
+        "ft/s"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 1093
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierBodyTemperature": {
+      "sample_count": 777,
+      "units": [
+        "degF"
+      ],
+      "top_sources": [
+        {
+          "name": "Ultrahuman",
+          "count": 777
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierOxygenSaturation": {
+      "sample_count": 596,
+      "units": [
+        "%"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 590
+        },
+        {
+          "name": "WHOOP",
+          "count": 6
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierEnvironmentalSoundReduction": {
+      "sample_count": 581,
+      "units": [
+        "dBASPL"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 581
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierRestingHeartRate": {
+      "sample_count": 346,
+      "units": [
+        "count/min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 336
+        },
+        {
+          "name": "WHOOP",
+          "count": 6
+        },
+        {
+          "name": "Ultrahuman",
+          "count": 4
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierAudioExposureEvent": {
+      "sample_count": 316,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 316
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierWalkingHeartRateAverage": {
+      "sample_count": 315,
+      "units": [
+        "count/min"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 315
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierHeadphoneAudioExposureEvent": {
+      "sample_count": 204,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 204
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierAppleWalkingSteadiness": {
+      "sample_count": 114,
+      "units": [
+        "%"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 114
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierHandwashingEvent": {
+      "sample_count": 68,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 68
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierAppleSleepingBreathingDisturbances": {
+      "sample_count": 62,
+      "units": [
+        "count"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 62
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierSixMinuteWalkTestDistance": {
+      "sample_count": 44,
+      "units": [
+        "m"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 44
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierVO2Max": {
+      "sample_count": 29,
+      "units": [
+        "mL/min·kg"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 29
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierLowHeartRateEvent": {
+      "sample_count": 4,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 4
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierHeight": {
+      "sample_count": 1,
+      "units": [
+        "ft"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 1
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierBodyMass": {
+      "sample_count": 1,
+      "units": [
+        "lb"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s iPhone",
+          "count": 1
+        }
+      ]
+    },
+    "HKDataTypeSleepDurationGoal": {
+      "sample_count": 1,
+      "units": [
+        "hr"
+      ],
+      "top_sources": [
+        {
+          "name": "Health",
+          "count": 1
+        }
+      ]
+    },
+    "HKQuantityTypeIdentifierAppleSleepingWristTemperature": {
+      "sample_count": 1,
+      "units": [
+        "degF"
+      ],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 1
+        }
+      ]
+    },
+    "HKCategoryTypeIdentifierHighHeartRateEvent": {
+      "sample_count": 1,
+      "units": [],
+      "top_sources": [
+        {
+          "name": "Shrey’s Apple Watch",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "workout_types": {
+    "HKWorkoutActivityTypeWalking": {
+      "sample_count": 18
+    },
+    "HKWorkoutActivityTypeOther": {
+      "sample_count": 2
+    },
+    "HKWorkoutActivityTypePickleball": {
+      "sample_count": 1
+    },
+    "HKWorkoutActivityTypeHockey": {
+      "sample_count": 1
+    }
+  },
+  "workout_sources": [
+    {
+      "name": "Shrey’s Apple Watch",
+      "count": 19
+    },
+    {
+      "name": "WHOOP",
+      "count": 3
+    }
+  ]
+}
